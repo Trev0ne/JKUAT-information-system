@@ -1,20 +1,3 @@
-/*
-    JKUAT INFORMATION SYSTEM
-    Beginner-friendly C++ console application for Dev-C++
-
-    Features:
-    - Student, lecturer and staff login
-    - Unit registration and registered-unit viewing
-    - LMS notes, assignments and CATs
-    - Lecturer mark entry and mark updates
-    - Students can view their own marks
-    - Staff can view students, lecturers, units and academic records
-    - Text-file storage so data remains after the program closes
-
-    Compile with a C++11-compatible compiler.
-    Data files are created in the program's working directory.
-*/
-
 #include <iostream>
 #include <vector>
 #include <string>
